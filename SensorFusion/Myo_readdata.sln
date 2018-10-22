@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Myo_readdata", "Myo_readdata.vcxproj", "{97ACBDE6-2922-4AFA-A49F-4C9C1A827E87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9EFA7AB1-EC9B-4887-BE3C-BD327CBCD2E1}"
+	ProjectSection(SolutionItems) = preProject
+		..\myo-sdk-win-0.9.0\samples\emg-data-sample-VisualStudio2012.sln = ..\myo-sdk-win-0.9.0\samples\emg-data-sample-VisualStudio2012.sln
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97ACBDE6-2922-4AFA-A49F-4C9C1A827E87}.Debug|Win32.ActiveCfg = Debug|Win32
+		{97ACBDE6-2922-4AFA-A49F-4C9C1A827E87}.Debug|Win32.Build.0 = Debug|Win32
+		{97ACBDE6-2922-4AFA-A49F-4C9C1A827E87}.Release|Win32.ActiveCfg = Release|Win32
+		{97ACBDE6-2922-4AFA-A49F-4C9C1A827E87}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
